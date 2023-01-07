@@ -1,15 +1,9 @@
  Olá, me chamo Vitória Albuquerque! 
  <br>
- <ul>
- <li>Desenvolvedora front-end 👩‍💻 </li>
- <li>Habilidade em prototipagem 💻 </li>
- <li> Conhecimentos em banco de dados(Mysql) 💾 </li>
- <li>Interessada em gestão de projetos 🗃️ </li>
- <li>Percussionista 🥁</li>
- <li>Paquero a educação desde sempre 📚 </li>
- </ul>
- Sou desenvolvedora web com foco no Front-end, mas também com habilidades em banco de dados, prototipagem além do interesse voltado para a gestão de projetos. Não menos importante, também sou percussionista e paquero a educação desde sempre! Espero que goste dos meus projetos. <3
-   
+
+ Sou desenvolvedora web com foco no Front-end, mas também com habilidades em banco de dados e prototipagem além do interesse voltado para a gestão de projetos. Não menos importante, também sou percussionista e paquero a educação desde sempre! Espero que goste dos meus projetos que encontrará por aqui. 👩‍💻📚
+
+<br>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vialbuquerquz&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialbuquerquz&layout=compact&theme=radical)](https://github.com/vialbuquerquz/github-readme-stats)
