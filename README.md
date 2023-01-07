@@ -1,4 +1,14 @@
  Olá, me chamo Vitória Albuquerque! 
+ <br>
+ <ul>
+ <li>Desenvolvedora front-end 👩‍💻 </li>
+ <li>Habilidade em prototipagem 💻 </li>
+ <li> Conhecimentos em banco de dados(Mysql) 💾 </li>
+ <li>Interessada em gestão de projetos 🗃️ </li>
+ <li>Percussionista 🥁</li>
+ <li>Paquero a educação desde sempre 📚 </li>
+ </ul>
+ Sou desenvolvedora web com foco no Front-end, mas também com habilidades em banco de dados, prototipagem além do interesse voltado para a gestão de projetos. Não menos importante, também sou percussionista e paquero a educação desde sempre! Espero que goste dos meus projetos. <3
    
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vialbuquerquz&show_icons=true&theme=radical)
@@ -8,6 +18,8 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target=_blank></img>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" tart=_blank></img>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target=_blank></img>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target=_blank></img>
+   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target=_blank></img>
  <br>
  <br>
 <a href="https://www.instagram.com/vi.albuquerquz/?next=%2F"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_blank></a>
