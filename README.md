@@ -2,6 +2,8 @@
  <br>
 
  Sou desenvolvedora web com foco no Front-end, mas também com habilidades em banco de dados e prototipagem além do interesse voltado para a gestão de projetos. Não menos importante, também sou percussionista e paquero a educação desde sempre! Espero que goste dos meus projetos que encontrará por aqui. 👩‍💻📚
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vialbuquerquz&show_icons=true&theme=radical)
 
  <br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target=_blank></img><hr>
