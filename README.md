@@ -12,7 +12,7 @@ Estudante do último período de Tecnologia em Ciência de Dados, atuo como Cien
 - **ETL para NLP** e transformação de dados
 - **Extração de dados automática** de documentos
 - **Ambientes containerizados** para desenvolvimento de soluções
-- **Automação de processos** de interação com bancos de dados
+- **Automação de processos** de interação com bancos de dados estruturados e não estruturados
 - **Sistemas escaláveis** para processamento de informação
 - **Sistemas de busca híbrida** para consultas léxicas e semânticas em documentos
 - **Agentes de IA integrados com RAG** desenvolvidos com ferramentas de LLM, embedding e vetorização
