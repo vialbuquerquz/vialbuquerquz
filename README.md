@@ -26,7 +26,6 @@ Estudante do último período de Tecnologia em Ciência de Dados, atuo como Cien
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-plain-wordmark.svg" width=100px heigth:100px/>
     <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png" width=100px heigth:100px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=100px heigth:100px/>
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/arangodb-icon-pppjcucscbkv57xkrm9kj.png/arangodb-icon-1zlw3tzkunjt5l993vsu.png?_a=DATAg1AAZAA0" width=100px heigth:100px/>
     <img src="https://img.pikbest.com/origin/10/40/87/31VpIkbEsTYhP.png!sw800" width=100px heigth:100px/>
   </div>
 
