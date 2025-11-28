@@ -10,17 +10,12 @@ Estudante do último período de Tecnologia em Ciência de Dados, atuo como Cien
 ### Desenvolvimento de Pipelines
 - **Pipelines de processamento de dados e NLP**
 - **ETL para NLP** e transformação de dados
-- **Extração e indexação automática** de documentos
-
-### Sistemas de Busca & IA
-- **Sistemas de busca híbrida**
-- **APIs e serviços para IA**, incluindo vetorização de embeddings e API de interação diretas com bancos de dados
-- **Agentes e chatbots integrados com LLMs e RAG**
-
-### Infraestrutura & Ferramentas
+- **Extração de dados automática** de documentos
 - **Ambientes containerizados** para desenvolvimento de soluções
-- **Automação de processos**
+- **Automação de processos** de interação com bancos de dados
 - **Sistemas escaláveis** para processamento de informação
+- **Sistemas de busca híbrida** para consultas léxicas e semânticas em documentos
+- **Agentes de IA integrados com RAG** desenvolvidos com ferramentas de LLM, embedding e vetorização
 
 ## Tecnologias utilizadas:
   <div align=center>
