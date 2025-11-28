@@ -1,31 +1,65 @@
- Olá, me chamo Vitória Albuquerque! 
+ Olá, me chamo Vitória Albuquerque.
  <br>
 
- Sou graduanda em ciência de dados e estudante de desenvolvimento web. Por aqui, você vai encontrar algumas amostras dos meus conhecimentos e estudos de front-end com tecnologias como HTML, CSS, Bootstrap, Javascript e Python. Além disso, também possuo conhecimentos em banco de dados e prototipagem de telas. Tô a disposição para batermos aquele papo. <3
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vialbuquerquz&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialbuquerquz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# 👩‍💻 Sobre Mim
 
- 
- <h3 align=center> Tecnologias utilizadas por aqui: </h3>
- <div align=center>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=50px heigth:50px/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=50px heigth:50px/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=50px heigth:50px/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px heigth:50px />      
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=50px heigth:50px/>
+Estudante do último período de Tecnologia em Ciência de Dados, atuo como Cientista de Dados Júnior desenvolvendo soluções completas que combinam processamento de dados, engenharia de busca, integração de sistemas e inteligência artificial aplicada, visando a transformação e enriquecimento de dados em produtos úteis.
+
+## 🛠️ Experiência Técnica
+
+### Desenvolvimento de Pipelines
+- **Pipelines de processamento de dados e NLP**
+- **ETL para NLP** e transformação de dados
+- **Extração e indexação automática** de documentos
+
+### Sistemas de Busca & IA
+- **Sistemas de busca híbrida**
+- **APIs e serviços para IA**, incluindo vetorização de embeddings e API de interação diretas com bancos de dados
+- **Agentes e chatbots integrados com LLMs e RAG**
+
+### Infraestrutura & Ferramentas
+- **Ambientes containerizados** para desenvolvimento de soluções
+- **Automação de processos**
+- **Sistemas escaláveis** para processamento de informação
+
+## Tecnologias utilizadas:
+  <div align=center>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=100px heigth:100px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width=100px heigth:100px/>
+    <img src="https://user-images.githubusercontent.com/50221806/86498208-af4bfe00-bd39-11ea-88fa-c747ae0ddd85.png" width=100px heigth:100px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=100px heigth:100px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-plain-wordmark.svg" width=100px heigth:100px/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png" width=100px heigth:100px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=100px heigth:100px/>
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/arangodb-icon-pppjcucscbkv57xkrm9kj.png/arangodb-icon-1zlw3tzkunjt5l993vsu.png?_a=DATAg1AAZAA0" width=100px heigth:100px/>
+    <img src="https://img.pikbest.com/origin/10/40/87/31VpIkbEsTYhP.png!sw800" width=100px heigth:100px/>
   </div>
+
  <br>
- <br>
- <div align=center>
-  <h3> Entre em contato comigo: </h3>
-   <a href="https://www.instagram.com/vi.albuquerquz/?next=%2F"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width=50px heigth:50px target=_blank>
-   </a>
-   <a href="albuquerquev1211@gmail.com"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png"  width=50px heigth:50px target=_blank>
-   </a>
-      <a href="https://www.linkedin.com/in/vit%C3%B3ria-albuquerque-3647b8199/"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px heigth:50px target=_blank>
-   </a>
- </div>
+
+## 📞 Contato
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="mailto:albuquerquev1211@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://discord.com/users/vi.albuquerquz">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="70" height="70"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-albuquerque-3647b8199/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" height="70"/>
+  </a>
+
+</div>
+
+<br>
+ 
+## 📊 Estatísticas gerais do Github
+
+<br>
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vialbuquerquz&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=111184)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialbuquerquz&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=111184)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
