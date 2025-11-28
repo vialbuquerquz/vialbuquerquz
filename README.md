@@ -33,16 +33,19 @@ Estudante do último período de Tecnologia em Ciência de Dados, atuo como Cien
 
 ## 📞 Contato
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="mailto:albuquerquev1211@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" height="70"/>
-  </a>
-  <a href="https://discord.com/users/vi.albuquerquz">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="70" height="70"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vit%C3%B3ria-albuquerque-3647b8199/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" height="70"/>
-  </a>
+<div align="center">
+
+<a href="mailto:albuquerquev1211@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" height="70"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/vi.albuquerquz">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="70" height="70"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vit%C3%B3ria-albuquerque-3647b8199/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" height="70"/>
+</a>
 
 </div>
 
