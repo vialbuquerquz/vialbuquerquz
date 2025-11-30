@@ -56,7 +56,6 @@ Estudante do último período de Tecnologia em Ciência de Dados, atuo como Cien
 <br>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vialbuquerquz&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=111184)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialbuquerquz&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=111184)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialbuquerquz&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=111184)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
