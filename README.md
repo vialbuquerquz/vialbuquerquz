@@ -3,7 +3,7 @@
 
 # 👩‍💻 Sobre Mim
 
-Estudante do último período de Tecnologia em Ciência de Dados, atuo como Cientista de Dados Júnior desenvolvendo soluções completas que combinam processamento de dados, engenharia de busca, integração de sistemas e inteligência artificial aplicada, visando a transformação e enriquecimento de dados em produtos úteis.
+Cientista de Dados Júnior desenvolvendo soluções completas que combinam processamento de dados, engenharia de busca, integração de sistemas e inteligência artificial aplicada, visando a transformação e enriquecimento de dados em produtos úteis.
 
 ## 🛠️ Experiência Técnica
 
