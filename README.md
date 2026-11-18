@@ -3,7 +3,7 @@
 
 # 👩‍💻 Sobre Mim
 
-Cientista de Dados Júnior desenvolvendo soluções completas que combinam processamento de dados, engenharia de busca, integração de sistemas e inteligência artificial aplicada, visando a transformação e enriquecimento de dados em produtos úteis.
+Cientista de Dados desenvolvendo soluções completas que combinam processamento de dados, engenharia de busca, integração de sistemas e inteligência artificial aplicada, visando a transformação e enriquecimento de dados em produtos úteis.
 
 ## 🔎 O que eu construo
 
