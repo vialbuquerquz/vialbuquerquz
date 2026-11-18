@@ -7,18 +7,18 @@ Cientista de Dados Júnior desenvolvendo soluções completas que combinam proce
 
 ## 🔎 O que eu construo
 
-Busca e IA generativa
+<strong>Busca e IA generativa </strong>
 
 Busca híbrida (léxica + semântica) sobre grandes acervos de documentos
 Agentes com RAG: embeddings, bancos vetoriais e orquestração de LLMs com Langflow
 
-Engenharia de dados para NLP
+<strong>Engenharia de dados para NLP</strong>
 
 Pipelines de ponta a ponta: ingestão, pré-processamento, enriquecimento e integração
 Extração automática de dados de documentos
 Integração com bancos estruturados e não estruturados
 
-Automação e infraestrutura
+<strong>Automação e infraestrutura</strong>
 
 Ambientes containerizados com Docker para desenvolvimento e deploy
 Orquestração de pipelines com shell script e integração de sistemas via APIs
