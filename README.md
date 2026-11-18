@@ -6,18 +6,18 @@
 Cientista de Dados Júnior desenvolvendo soluções completas que combinam processamento de dados, engenharia de busca, integração de sistemas e inteligência artificial aplicada, visando a transformação e enriquecimento de dados em produtos úteis.
 
 ## 🔎 O que eu construo
-<br>
+
 Busca e IA generativa
 
 Busca híbrida (léxica + semântica) sobre grandes acervos de documentos
 Agentes com RAG: embeddings, bancos vetoriais e orquestração de LLMs com Langflow
-<br>
+
 Engenharia de dados para NLP
 
 Pipelines de ponta a ponta: ingestão, pré-processamento, enriquecimento e integração
 Extração automática de dados de documentos
 Integração com bancos estruturados e não estruturados
-<br>
+
 Automação e infraestrutura
 
 Ambientes containerizados com Docker para desenvolvimento e deploy
